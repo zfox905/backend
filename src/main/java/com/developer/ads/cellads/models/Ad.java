@@ -18,7 +18,6 @@ import javax.persistence.ManyToOne;
 import java.time.Instant;
 import java.util.Set;
 
-syntax error
 
 @Data
 @NoArgsConstructor
